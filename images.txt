@@ -1,4 +1,5 @@
 vulhub/shiro:1.2.4
+
 {
   "registry-mirrors": [
     "https://docker.m.daocloud.io",
